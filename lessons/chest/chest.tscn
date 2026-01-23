@@ -38,5 +38,3 @@ texture = ExtResource("2_ewavt")
 [node name="Lock" type="Sprite2D" parent="CanvasGroup"]
 position = Vector2(1, 17)
 texture = ExtResource("3_p5k37")
-
-[node name="Camera2D" type="Camera2D" parent="."]
